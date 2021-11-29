@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dmzryp
+- I'm a Fullstack Developer
 - 👀 I’m interested in teknologi and radio control
-- 🌱 I’m currently learning angular
+- 🌱 I’m currently Ionic angular & Nebular UI Library
 - Hoping you like it
 
 <!---
